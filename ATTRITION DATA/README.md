@@ -1,2 +1,2 @@
-# item_outsale_prediction
-Data is provided to predict item outsale. 
+# ATTRITION DATASET
+Data is provided to predict ATTRITION RATE. 
